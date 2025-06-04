@@ -1,0 +1,5 @@
+ETL: Extract -> Transform -> Load
+ELT: Extract -> Load -> Transform
+
+ETL phù hợp với hệ thống truyền thống (on-premise), kiểm soát chặt chẽ bước transform trước khi load.
+ELT phù hợp với các hệ thống Cloud Data Warehouse (BigQuery, Redshift) vì có thể tận dụng sức mạnh xử lý trên cloud sau khi load.
